@@ -5,8 +5,7 @@ body div.container section.filters {
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     display: flex;
-    justify-content: right;
-    
+    justify-content: right;  
 }
 
 body div.container section.filters button {
