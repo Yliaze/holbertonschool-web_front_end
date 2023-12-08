@@ -1,0 +1,13 @@
+/* My style */
+@mixin margin-theme($theme) {
+    margin-left: $theme;
+    margin-right: $theme;
+}
+
+body {
+    @include margin-theme(10px);
+}
+  
+div {
+    @include margin-theme(15px);
+}
