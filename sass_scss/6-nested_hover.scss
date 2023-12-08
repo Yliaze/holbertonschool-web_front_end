@@ -1,0 +1,10 @@
+/* My style */
+$button-color: #FF0000;
+$button-color-hover: #00FF00;
+
+button {
+    color: $button-color;
+    &:hover {
+        columns: $button-color-hover;
+    }
+}
