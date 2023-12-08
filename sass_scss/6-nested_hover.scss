@@ -5,6 +5,6 @@ $button-color-hover: #00FF00;
 button {
     color: $button-color;
     &:hover {
-        columns: $button-color-hover;
+        color: $button-color-hover;
     }
 }
